@@ -1,0 +1,146 @@
+{
+    "plugins": [
+        {
+            "name": "weDocs – Knowledgebase, Documentation, and Wiki for WP",
+            "text_domain": "wedocs",
+            "image": "assets/trans-images/wedocs.png",
+            "description": "weDocs je plugin pro správu a zobrazování znalostní báze, dokumentace a wiki pro WordPress.",
+            "translation_support": "Český překlad",
+            "tested_version": "2.1.6",
+            "last_updated": "06.07.2024",
+            "translation_status": "100%"
+        },
+        {
+            "name": "Dokan – Powerful WooCommerce Multivendor Marketplace Solution – Build Your Own Amazon, eBay, Etsy",
+            "text_domain": "dokan-lite",
+            "image": "assets/trans-images/dokan-lite.png",
+            "description": "Dokan je výkonné řešení pro multivendor tržiště WooCommerce - Vytvořte si vlastní Amazon, eBay, Etsy.",
+            "translation_support": "Český překlad",
+            "tested_version": "3.11.3",
+            "last_updated": "06.07.2024",
+            "translation_status": "100%"
+        },
+        {
+            "name": "CBX User Online & Last Login",
+            "text_domain": "cbxuseronline",
+            "image": "assets/trans-images/cbxuseronline.png",
+            "description": "CBX User Online & Last Login zobrazuje online stav uživatelů a poslední přihlášení.",
+            "translation_support": "Český překlad",
+            "tested_version": "1.2.13",
+            "last_updated": "06.07.2024",
+            "translation_status": "45%"
+        },
+        {
+            "name": "CBX Changelog",
+            "text_domain": "cbxchangelog",
+            "image": "assets/trans-images/cbxchangelog.png",
+            "description": "CBX Changelog je plugin pro správu a zobrazování changelogu pro vaše projekty.",
+            "translation_support": "Český překlad",
+            "tested_version": "1.1.5",
+            "last_updated": "06.07.2024",
+            "translation_status": "28%"
+        },
+        {
+            "name": "BuddyPress",
+            "text_domain": "buddypress",
+            "image": "assets/trans-images/buddypress.png",
+            "description": "BuddyPress je výkonný plugin pro budování komunitních a sociálních sítí na WordPressu.",
+            "translation_support": "Český překlad",
+            "tested_version": "12.5.1",
+            "last_updated": "06.07.2024",
+            "translation_status": "100%"
+        },
+        {
+            "name": "DeBlocker",
+            "text_domain": "deblocker",
+            "image": "assets/trans-images/deblocker.png",
+            "description": "DeBlocker je plugin pro blokování AdBlockerů na vašem webu.",
+            "translation_support": "Český překlad",
+            "tested_version": "3.3.7",
+            "last_updated": "02.07.2024",
+            "translation_status": "100%"
+        },
+        {
+            "name": "Elementor",
+            "text_domain": "elementor",
+            "image": "assets/trans-images/elementor.png",
+            "description": "Elementor je pokročilý nástroj pro tvorbu stránek ve WordPressu.",
+            "translation_support": "Český překlad",
+            "tested_version": "3.22.3",
+            "last_updated": "02.07.2024",
+            "translation_status": "100%"
+        },
+        {
+            "name": "Advanced Database Cleaner",
+            "text_domain": "advanced-database-cleaner",
+            "image": "assets/trans-images/advanced-database-cleaner.png",
+            "description": "Advanced Database Cleaner je plugin pro čištění a optimalizaci databáze WordPress.",
+            "translation_support": "Český překlad",
+            "tested_version": "3.1.4",
+            "last_updated": "03.07.2024",
+            "translation_status": "98%"
+        },
+        {
+            "name": "GRAVITY FORMS",
+            "text_domain": "gravityforms",
+            "image": "assets/trans-images/gravityforms.png",
+            "description": "Gravity Forms je nejpokročilejší plugin pro tvorbu formulářů ve WordPressu.",
+            "translation_support": "Český překlad",
+            "tested_version": "2.8.12.1",
+            "last_updated": "01.07.2024",
+            "translation_status": "99.8%"
+        },
+        {
+            "name": "FS POSTER",
+            "text_domain": "fs-poster",
+            "image": "assets/trans-images/fs-poster.png",
+            "description": "FS Poster je plugin pro automatické sdílení obsahu na sociálních sítích.",
+            "translation_support": "Český a Slovenský překlad",
+            "tested_version": "6.5.9",
+            "last_updated": "01.07.2024",
+            "translation_status": "61%"
+        },
+        {
+            "name": "PRETTY LINK",
+            "text_domain": "pretty-link",
+            "image": "assets/trans-images/pretty-link.png",
+            "description": "Pretty Link umožňuje zkracování a sledování odkazů na vašem webu.",
+            "translation_support": "Český překlad",
+            "tested_version": "3.6.7",
+            "last_updated": "01.07.2024",
+            "translation_status": "11%"
+        }
+    ],
+    "themes": [
+        {
+            "name": "Vikinger",
+            "text_domain": "vikinger",
+            "image": "assets/trans-images/vikinger.png",
+            "description": "Vikinger je moderní šablona pro komunitní a sociální sítě s pokročilými možnostmi přizpůsobení.",
+            "translation_support": "Český překlad",
+            "tested_version": "1.9.18",
+            "last_updated": "01.07.2024",
+            "translation_status": "65%"
+        },
+        {
+            "name": "Monstroid2",
+            "text_domain": "monstroid2",
+            "image": "assets/trans-images/monstroid2.png",
+            "description": "Monstroid2 je moderní a víceúčelová šablona pro WordPress s pokročilými možnostmi přizpůsobení.",
+            "translation_support": "Český překlad",
+            "tested_version": "1.1.15",
+            "last_updated": "01.07.2024",
+            "translation_status": "0%"
+        },
+        {
+            "name": "Muvipro",
+            "text_domain": "muvipro",
+            "image": "assets/trans-images/muvipro.png",
+            "description": "Muvipro je moderní šablona pro video a filmové stránky s pokročilými možnostmi přizpůsobení. Překlad idmuvi-core prozatím není součástí.",
+            "translation_support": "Český překlad",
+            "tested_version": "2.1.8",
+            "last_updated": "01.07.2024",
+            "translation_status": "32%"
+        }
+    ]
+}
