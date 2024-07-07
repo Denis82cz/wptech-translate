@@ -30,16 +30,3 @@ WPTech Translate je plugin pro WordPress, který umožňuje překlad podporovan�
 = Jaké pluginy jsou podporovány? =
 
 Seznam podporovaných pluginů a šablon najdete v administrativním menu pluginu.
-
-== Screenshots ==
-Již brzy
-
-== Changelog ==
-
-= 1.0 =
-* Změna názvu pluginu a Text domain
-* Aktualizace stavu překladu pro několik pluginů.
-* Přidána podpora pro nové verze pluginů a šablon.
-
-== Upgrade Notice ==
-—
