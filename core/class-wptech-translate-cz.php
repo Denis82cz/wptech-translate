@@ -80,7 +80,8 @@ if ( ! class_exists( 'Wptech_Translate_CZ' ) ) :
                 'advanced-database-cleaner' => 'advanced-database-cleaner',
                 'supportcandy' => 'supportcandy',
                 'elementor' => 'elementor',
-                'deblocker' => 'deblocker'
+                'deblocker' => 'deblocker',
+				'code-snippets' => 'code-snippets'
             );
 
             foreach ( $plugins as $slug => $text_domain ) {
