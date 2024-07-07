@@ -5,7 +5,7 @@
 function wptech_add_dashboard_widget() {
     wp_add_dashboard_widget(
         'wptech_info_widget',   // Widget slug.
-        'WPTech Info',          // Title.
+        'WPTech podpora šablon a pluginů', // Title.
         'wptech_display_dashboard_widget' // Display function.
     );
 }
