@@ -6,13 +6,13 @@ ob_start(); // Start output buffering
  *
  * @package       WPTECH
  * @since         1.0
- * @version       1.0
+ * @version       1.0.1
  *
  * @wordpress-plugin
  * Plugin Name:   WPTech Translate
  * Plugin URI:    https://wpress.tech/produkt/wptech-translate
  * Description:   Plugin, který přeloží podporované pluginy a šablony do češtiny a připraví se pro addon na překlad do slovenštiny.
- * Version:       1.0
+ * Version:       1.0.1
  * Author:        WPTech
  * Author URI:    https://www.wpress.tech
  * Text Domain:   wptech-translate
@@ -31,7 +31,7 @@ if ( ! defined( 'ABSPATH' ) ) exit;
 
 // Definice konstant pro plugin
 define( 'WPTECH_NAME', 'WPTech Translate' );
-define( 'WPTECH_VERSION', '1.0' );
+define( 'WPTECH_VERSION', '1.0.1' );
 define( 'WPTECH_PLUGIN_FILE', __FILE__ );
 define( 'WPTECH_PLUGIN_BASE', plugin_basename( WPTECH_PLUGIN_FILE ) );
 define( 'WPTECH_PLUGIN_DIR', plugin_dir_path( WPTECH_PLUGIN_FILE ) );
